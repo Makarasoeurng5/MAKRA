@@ -1,4 +1,5 @@
 clear
+
 bi='\033[94;1m' #biru
 i='\033[92;1m' #ijo
 pur='\033[95;1m' #purple
